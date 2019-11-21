@@ -25,7 +25,7 @@ SECRET_KEY = 'v9$ak=u+5fr72f%=87ef(fp-)^zl#uw9i#4atm28z+p#5l@)i*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://taskapi-kk.herokuapp.com']
 
 
 # Application definition
