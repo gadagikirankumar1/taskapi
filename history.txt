@@ -1,0 +1,1000 @@
+ 1052  rm -rf lampp
+ 1053  sudo rm -rf lampp
+ 1054  ls
+ 1055  clear
+ 1056  sudo ln -s lampp7.2/ lampp
+ 1057  ls
+ 1058  clear
+ 1059  sudo /opt/lampp/xampp start
+ 1060  clear
+ 1061  ls
+ 1062  clear
+ 1063  php -v
+ 1064  clear
+ 1065  ls
+ 1066  exit
+ 1067  subl .
+ 1068  exit
+ 1069  ls
+ 1070  cd Downloads/
+ 1071  ls
+ 1072  clear
+ 1073  ls
+ 1074  clear
+ 1075  ssh -i "demo.pem" ubuntu@15.206.130.133
+ 1076  exit
+ 1077  subl .
+ 1078  pwd
+ 1079  cd catalog/
+ 1080  clear
+ 1081  ls
+ 1082  pwd
+ 1083  clear
+ 1084  exit
+ 1085  sudo chmod -R 777 .
+ 1086  clear
+ 1087  exit
+ 1088  php -v
+ 1089  sudo /opt/lampp7.2/xampp start
+ 1090  cd /opt/
+ 1091  clear
+ 1092  ls
+ 1093  sudo /opt/lampp7.2/xampp stop
+ 1094  clear
+ 1095  ls
+ 1096  sudo rm lampp
+ 1097  clear
+ 1098  ls
+ 1099  sudo ln -s lampp7.2/ lampp
+ 1100  clear
+ 1101  ls
+ 1102  php -v
+ 1103  sudo rm lampp
+ 1104  php -v
+ 1105  sudo ln -s lampp5/ lampp
+ 1106  clear
+ 1107  ls
+ 1108  php -v
+ 1109  sudo /opt/lampp5/xampp start
+ 1110  cd lampp5/htdocs/ncms-project-final/
+ 1111  clear
+ 1112  code-server .
+ 1113  clear
+ 1114  exit
+ 1115  sudo /opt/lampp/xampp stop
+ 1116  exit
+ 1117  sudo /opt/lampp/xampp start
+ 1118  cd /opt/lampp/htdocs/ncms-project-final/
+ 1119  clear
+ 1120  code-server .
+ 1121  sudo /opt/lampp/xampp stop
+ 1122  exit
+ 1123  php -v
+ 1124  clear
+ 1125  php -v
+ 1126  sudo /opt/lampp/xampp stop
+ 1127  clear
+ 1128  cd /opt/
+ 1129  clear
+ 1130  ls
+ 1131  atom
+ 1132  clear
+ 1133  exit
+ 1134  sudo /opt/lampp/xampp start
+ 1135  sudo /opt/lampp/xampp stop
+ 1136  exit
+ 1137  sudo /opt/lampp/xampp start
+ 1138  clear
+ 1139  cd /opt/lampp/htdocs/ncms-project-final/
+ 1140  clear
+ 1141  code-server .
+ 1142  sudo /opt/lampp/xampp stop
+ 1143  exit
+ 1144  cd /opt/
+ 1145  clear
+ 1146  ls
+ 1147  rm lampp
+ 1148  clear
+ 1149  sudo rm lampp
+ 1150  clear
+ 1151  ls
+ 1152  sudo ln -s lampp7.2/ lampp
+ 1153  clear
+ 1154  ls
+ 1155  php -v
+ 1156  sudo lampp7.2/xampp start
+ 1157  sudo lampp7.2/xampp stop
+ 1158  exit
+ 1159  sudo chmod -R 777 .
+ 1160  exit
+ 1161  sudo chmod -
+ 1162  sudo chmod -R 777 .
+ 1163  exit
+ 1164  cd /opt/
+ 1165  clear
+ 1166  ls
+ 1167  sudo rm lampp
+ 1168  clear
+ 1169  ls
+ 1170  sudo ln -s lampp7.2/ lampp
+ 1171  clear
+ 1172  ls
+ 1173  php -v
+ 1174  sudo lampp7.2/xampp start
+ 1175  exit
+ 1176  sudo chmod -R 777 .
+ 1177  clear
+ 1178  sudo mkdir storage
+ 1179  sudo chmod -R 777 storage
+ 1180  cd storage/
+ 1181  clear
+ 1182  ls
+ 1183  exit
+ 1184  sudo rm -rf cache/
+ 1185  clear
+ 1186  exit
+ 1187  sudo chmod -R 777 .
+ 1188  exit
+ 1189  sudo chmod -R 777 .
+ 1190  exitcd ..
+ 1191  cd ..
+ 1192  clear
+ 1193  sudo rm -rf storage/
+ 1194  clear
+ 1195  ls
+ 1196  sudo mkdir storage
+ 1197  ls
+ 1198  clear
+ 1199  sudo chmod -R 777 storage/
+ 1200  clear
+ 1201  cd storage/
+ 1202  clear
+ 1203  sudo chmod -R 777 .
+ 1204  clear
+ 1205  cd ..
+ 1206  clear
+ 1207  sudo rm -rf storage/
+ 1208  sudo chmod -R 777 upload/
+ 1209  clear
+ 1210  exit
+ 1211  sudo chmod -R 777 .
+ 1212  exit
+ 1213  sudo apt-get remove
+ 1214  clear
+ 1215  exit
+ 1216  php -v
+ 1217  clear
+ 1218  sudo /opt/lampp/xampp start
+ 1219  code-server .
+ 1220  cd /opt/
+ 1221  cd lampp/htdocs/oc_demo/
+ 1222  clearclear
+ 1223  clear
+ 1224  cd ..
+ 1225  clear
+ 1226  cd upload/
+ 1227  clear
+ 1228  code-server .
+ 1229  exit
+ 1230  sudo chmod 400 demo.pem
+ 1231  ssh -i "demo.pem" ubuntu@15.206.130.133
+ 1232  sudo /opt/lampp/xampp start
+ 1233  exit
+ 1234  sudo scp -i ~/Downloads/demo.pem /opt/lampp/htdocs/upload.zip ubuntu@15.206.130.133:/opt/lampp/htdocs
+ 1235  exit
+ 1236  python3
+ 1237  clear
+ 1238  pip3
+ 1239  pip
+ 1240  clear
+ 1241  exit
+ 1242  clear
+ 1243  ls
+ 1244  subl .
+ 1245  pipenv install django djangorestframework django-rest-knox
+ 1246  clear
+ 1247  ls
+ 1248  pip3 freeze
+ 1249  clear
+ 1250  ls
+ 1251  cat Pipfile
+ 1252  clear
+ 1253  django-admin startproject todoappapi
+ 1254  ls
+ 1255  clear
+ 1256  cd todoappapi/
+ 1257  clear
+ 1258  ls
+ 1259  python
+ 1260  clear
+ 1261  python manage.py startapp tasks
+ 1262  clear
+ 1263  python manage.py makemigrations tasks
+ 1264  exit
+ 1265  python3 --version
+ 1266  pip3 --version
+ 1267  sudo apt install python3-pip
+ 1268  clear
+ 1269  pip3 --versino
+ 1270  pip3 --version
+ 1271  clear
+ 1272  pip3 install pipenv
+ 1273  pip3 install --upgrade pip3
+ 1274  clear
+ 1275  ls
+ 1276  pipenv shell
+ 1277  exit
+ 1278  clear
+ 1279  ls
+ 1280  clear
+ 1281  django-admin.py startproject auth_api
+ 1282  ls
+ 1283  clear
+ 1284  cd auth_api/
+ 1285  clea
+ 1286  clear
+ 1287  python manage.py startapp users
+ 1288  python manage.py startapp todos
+ 1289  ls
+ 1290  clear
+ 1291  subl .
+ 1292  pip install coreapi
+ 1293  clear
+ 1294  pip freeze
+ 1295  clear
+ 1296  pip freeze
+ 1297  clear
+ 1298  python manage.py makemigrations todos users
+ 1299  clear
+ 1300  python manage.py makemigrations todos users
+ 1301  clear
+ 1302  python manage.py makemigrations todos users
+ 1303  clear
+ 1304  python manage.py makemigrations todos users
+ 1305  clear
+ 1306  python manage.py makemigrations todos users
+ 1307  clear
+ 1308  cd ..
+ 1309  ls
+ 1310  clear
+ 1311  ls
+ 1312  django-admin.py startproject tutorial
+ 1313  ls
+ 1314  clear
+ 1315  cd tutorial/
+ 1316  python manage.py startapp snippets
+ 1317  clear
+ 1318  ls
+ 1319  subl .
+ 1320  python manage.py makemigrations snippets
+ 1321  pipenv install pygments
+ 1322  clear
+ 1323  python manage.py makemigrations snippets
+ 1324  clear
+ 1325  python manage.py createsuperuser
+ 1326  clear
+ 1327  python manage.py migrate
+ 1328  clear
+ 1329  python manage.py createsuperuser
+ 1330  clear
+ 1331  python manage.py createsuperuser
+ 1332  clear
+ 1333  python manage.py runserver
+ 1334  clear
+ 1335  python manage.py runserver
+ 1336  clear
+ 1337  ls
+ 1338  rm db.sqlite3 
+ 1339  rm -r snippets/migrations/
+ 1340  python manage.py makemigrations snippets
+ 1341  clear
+ 1342  python manage.py migrate
+ 1343  clear
+ 1344  python manage.py createsuperuser
+ 1345  clear
+ 1346  python manage.py runserver
+ 1347  clear
+ 1348  ls
+ 1349  clear
+ 1350  python manage.py runserver
+ 1351  clear
+ 1352  python manage.py startapp snippets
+ 1353  python manage.py startapp tasks
+ 1354  clear
+ 1355  python manage.py makemigrations tasks
+ 1356  python manage.py migrate
+ 1357  clear
+ 1358  python manage.py runserver
+ 1359  clear
+ 1360  python manage.py runserver
+ 1361  clear
+ 1362  ls
+ 1363  cd tasks/
+ 1364  ls
+ 1365  rm -r migrations/
+ 1366  ls
+ 1367  clear
+ 1368  cd ..
+ 1369  python manage.py makemigrations tasks
+ 1370  python manage.py migrate
+ 1371  clear
+ 1372  python manage.py runserver
+ 1373  clear
+ 1374  python manage.py runserver
+ 1375  clear
+ 1376  python manage.py runserver
+ 1377  clear
+ 1378  exit
+ 1379  clear
+ 1380  ls
+ 1381  cd taskapp-python/
+ 1382  ls
+ 1383  clear
+ 1384  python manage.py runserver
+ 1385  clear
+ 1386  git init
+ 1387  git commit -m "first commit"
+ 1388  git status
+ 1389  git add .
+ 1390  clear
+ 1391  git commit -m "first commit"
+ 1392  git config user.email "gadagikirankumar1@gmail.com"
+ 1393  git config user.name "gadagikirankumar"
+ 1394  git commit -m "first commit"
+ 1395  git remote add origin https://github.com/gadagikirankumar1/taskapp-python.git
+ 1396  git push -u origin master
+ 1397  pip freeze 
+ 1398  pip freeze > requirement.txt
+ 1399  ls
+ 1400  clear
+ 1401  git status
+ 1402  git add .
+ 1403  ls
+ 1404  clear
+ 1405  git status
+ 1406  git push
+ 1407  clear
+ 1408  git status
+ 1409  git commit -m "requirement file is added"
+ 1410  git push
+ 1411  clear
+ 1412  heroku login
+ 1413  heroku git:remote -a taskapp-python
+ 1414  subl .
+ 1415  pip install whitenoise
+ 1416  clear
+ 1417  git push heroku master
+ 1418  clear
+ 1419  pip freeze > requirement.txt
+ 1420  clear
+ 1421  git status
+ 1422  git add .
+ 1423  git status
+ 1424  clear
+ 1425  ls
+ 1426  git commit -m "changed the settings file"
+ 1427  git push
+ 1428  clear
+ 1429  ls
+ 1430  git status
+ 1431  git add .
+ 1432  git commit -m "reset the settings files"
+ 1433  git push
+ 1434  clear
+ 1435  heroku logout
+ 1436  clear
+ 1437  exit
+ 1438  pipenv shell
+ 1439  sudo snap install heroku --classic
+ 1440  clear
+ 1441  heroku login
+ 1442  clear
+ 1443  ls
+ 1444  clear
+ 1445  ls
+ 1446  mv tutorial/ taskapp-python
+ 1447  cd taskapp-python/
+ 1448  clear
+ 1449  python manage.py runserver
+ 1450  ls
+ 1451  clear
+ 1452  pipenv shell
+ 1453  exit
+ 1454  sudo /opt/lampp/xampp stop
+ 1455  exit
+ 1456  clear
+ 1457  ls
+ 1458  clear
+ 1459  cd /opt/
+ 1460  clear
+ 1461  php -v
+ 1462  clear
+ 1463  ls
+ 1464  sudo rm -rf lampp
+ 1465  clear
+ 1466  ls
+ 1467  sudo ln -s lampp5/ lampp
+ 1468  clear
+ 1469  php -v
+ 1470  clear
+ 1471  sudo lampp5/xampp start
+ 1472  exit
+ 1473  sudo /opt/lampp/xampp stop
+ 1474  exit
+ 1475  code-server .
+ 1476  clear
+ 1477  code-server .
+ 1478  clear
+ 1479  exit
+ 1480  python
+ 1481  clear
+ 1482  ls
+ 1483  django-admin startproject todoappapi-python
+ 1484  django-admin startproject todoappapi
+ 1485  ls
+ 1486  rm -rf todoappapi/
+ 1487  clear
+ 1488  ls
+ 1489  django-admin startproject todoappapi
+ 1490  ls
+ 1491  cd todoappapi/
+ 1492  clear
+ 1493  ls
+ 1494  subl .
+ 1495  clear
+ 1496  ls
+ 1497  subl .
+ 1498  cd ..
+ 1499  clear
+ 1500  ls
+ 1501  cd taskapp-python/
+ 1502  ls
+ 1503  clear
+ 1504  atom
+ 1505  clear
+ 1506  code-server .
+ 1507  clear
+ 1508  pwd
+ 1509  python manage.py runserver
+ 1510  clear
+ 1511  cd ..
+ 1512  cd todoappapi/
+ 1513  clear
+ 1514  ls
+ 1515  python manage.py startapp tasks
+ 1516  clear
+ 1517  python manage.py makemigrations tasks
+ 1518  clear
+ 1519  python manage.py migrate
+ 1520  clear
+ 1521  python manage.py tasks migrations
+ 1522  clear
+ 1523  cd tasks/
+ 1524  clear
+ 1525  ls
+ 1526  rm -r migrations/
+ 1527  clear
+ 1528  ls
+ 1529  cd ..
+ 1530  python manage.py makemigrations tasks
+ 1531  clear
+ 1532  python manage.py migrate
+ 1533  clear
+ 1534  python manage.py createsuperuser
+ 1535  clear
+ 1536  python manage.py runserver
+ 1537  clear
+ 1538  ls
+ 1539  cd tasks/
+ 1540  ls
+ 1541  clear
+ 1542  ls
+ 1543  rm -r migrations/
+ 1544  clear
+ 1545  ls
+ 1546  cd ..
+ 1547  clear
+ 1548  python manage.py makemigrations tasks/
+ 1549  python manage.py makemigrations tasks
+ 1550  clear
+ 1551  python manage.py migrate
+ 1552  clear
+ 1553  python manage.py runserver
+ 1554  clear
+ 1555  ls
+ 1556  cd tasks/
+ 1557  clear
+ 1558  ls
+ 1559  rm -r migrations/
+ 1560  clear
+ 1561  cd ..
+ 1562  clear
+ 1563  python manage.py makemigrations tasks
+ 1564  clear
+ 1565  python manage.py migrate
+ 1566  clear
+ 1567  python manage.py runserver
+ 1568  clear
+ 1569  cd tasks/
+ 1570  ls
+ 1571  rm -r migrations/
+ 1572  clear
+ 1573  cd ..
+ 1574  clear
+ 1575  python manage.py makemigrations tasks
+ 1576  clear
+ 1577  python manage.py migrate
+ 1578  clear
+ 1579  python manage.py runserver
+ 1580  clear
+ 1581  ls
+ 1582  cd tasks/
+ 1583  clear
+ 1584  rm -r migrations/
+ 1585  clear
+ 1586  cd ..
+ 1587  python manage.py makemigrations tasks
+ 1588  clear
+ 1589  cd ..
+ 1590  clear
+ 1591  cd todoappapi/
+ 1592  clear
+ 1593  ls
+ 1594  python manage.py migrate
+ 1595  clear
+ 1596  python manage.py runserver
+ 1597  clear
+ 1598  cd tasks/
+ 1599  rm -r migrations/
+ 1600  clear
+ 1601  cd ..
+ 1602  clear
+ 1603  python manage.py makemigrations tasks
+ 1604  python manage.py migrate
+ 1605  clear
+ 1606  python manage.py runserver
+ 1607  clear
+ 1608  ls
+ 1609  clear
+ 1610  python manage.py createsuperuser
+ 1611  clear
+ 1612  python manage.py migrate
+ 1613  clear
+ 1614  cd todoappapi/
+ 1615  rm -r mi
+ 1616  cd ..
+ 1617  clear
+ 1618  cd tasks/
+ 1619  rm -r migrations/
+ 1620  clear
+ 1621  cd ..
+ 1622  python manage.py makemigrations tasks
+ 1623  clear
+ 1624  python manage.py migrate
+ 1625  python manage.py runserver
+ 1626  clear
+ 1627  cd ..
+ 1628  ls
+ 1629  clear
+ 1630  django-admin startproject taskapi
+ 1631  cd taskap
+ 1632  cd taskapi/
+ 1633  clear
+ 1634  ls
+ 1635  python manage.py startapp tasks
+ 1636  ls
+ 1637  clear
+ 1638  subl .
+ 1639  python manage.py makemigrations tasks
+ 1640  clear
+ 1641  python manage.py migrate
+ 1642  clear
+ 1643  python manage.py createsuperuser
+ 1644  clear
+ 1645  python manage.py runserver
+ 1646  clear
+ 1647  subl .
+ 1648  nano ~./bash_profile
+ 1649  clear
+ 1650  sudo nano ~./bash_profile
+ 1651  clear
+ 1652  heroku --version
+ 1653  clear
+ 1654  git init
+ 1655  git add .
+ 1656  ls
+ 1657  git status
+ 1658  git commit -m "Initial commit"
+ 1659  git config user.email "gadagikirankumar1@gmail.com"
+ 1660  git config user.name "gadagikirankumar1"
+ 1661  git commit -m "Initial commit"
+ 1662  clear
+ 1663  heroku create
+ 1664  clear
+ 1665  heroku create
+ 1666  clear
+ 1667  heroku login
+ 1668  clear
+ 1669  exit
+ 1670  clear
+ 1671  pipenv shell
+ 1672  exit
+ 1673  clear
+ 1674  heroku login
+ 1675  heroku create
+ 1676  pip freeze
+ 1677  pip install gunicorn
+ 1678  clear
+ 1679  cd taskapi/
+ 1680  clear
+ 1681  git status
+ 1682  clear
+ 1683  heroku create
+ 1684  pip freeze > requirement.txt
+ 1685  nano Procfile
+ 1686  ls
+ 1687  clear
+ 1688  oython --version
+ 1689  python --version
+ 1690  python --version > runtime.txt
+ 1691  cat runtime.txt 
+ 1692  nano runtime.txt 
+ 1693  clear
+ 1694  heroku local web
+ 1695  clear
+ 1696  heroku local web
+ 1697  pip install djangocms-history
+ 1698  clear
+ 1699  pip freeze > requirement.txt 
+ 1700  cat requirement.txt 
+ 1701  clear
+ 1702  heroku local web
+ 1703  heroku config
+ 1704  heroku config:unset PYTHONHOME -a cyclinganalytics
+ 1705  heroku login
+ 1706  heroku config:unset PYTHONHOME -a cyclinganalytics
+ 1707  heroku config:unset PYTHONPATH -a cyclinganalytics
+ 1708  clear
+ 1709  heroku local web
+ 1710  python manage.py collectstatic
+ 1711  clear
+ 1712  python manage.py collectstatic
+ 1713  pip list
+ 1714  pip install django-heroku
+ 1715  clear
+ 1716  nano heroku-requirement.txt
+ 1717  pip install -r heroku-requirement.txt 
+ 1718  clear
+ 1719  pip list
+ 1720  heroku local web
+ 1721  clear
+ 1722  pip install django gunicorn psycopg2
+ 1723  sudo apt-get update
+ 1724  sudo apt-get install python-pip python-dev libpq-dev
+ 1725  clear
+ 1726  sudo apt-get install python-pip python-dev 
+ 1727  clear
+ 1728  sudo apt-get install python3-pip python3-dev 
+ 1729  pip install django
+ 1730  pip install gunicorn
+ 1731  clear
+ 1732  pip install psycopg2
+ 1733  pip install psycopg2-binary
+ 1734  clear
+ 1735  python manage.py collectstatic
+ 1736  clear
+ 1737  python manage.py migrate
+ 1738  clear
+ 1739  python manage.py collectstatic
+ 1740  clear
+ 1741  heroku local web
+ 1742  clear
+ 1743  pip install django-heroku
+ 1744  sudo apt install libpq-dev
+ 1745  clear
+ 1746  sudo apt-get update
+ 1747  pip install sudo apt install libpq-dev
+ 1748  pip install django-heroku
+ 1749  clear
+ 1750  pip freeze > requirement.txt 
+ 1751  cat requirement.txt 
+ 1752  clear
+ 1753  heroku local web
+ 1754  clear
+ 1755  git push heroku master
+ 1756  exit
+ 1757  clear
+ 1758  ls
+ 1759  cd taskapi/
+ 1760  clear
+ 1761  ls
+ 1762  exit
+ 1763  cd taskapi/
+ 1764  clear
+ 1765  pipenv shell
+ 1766  exit
+ 1767  https://github.com/bennett39/django-heroku-example/tree/master/mysite
+ 1768  git clone https://github.com/bennett39/django-heroku-example/tree/master/mysite
+ 1769  clear
+ 1770  ls
+ 1771  clear
+ 1772  cd django-heroku-example-master/
+ 1773  clear
+ 1774  ls
+ 1775  pip install -r requirements.txt 
+ 1776  clear
+ 1777  python manage.py runserver
+ 1778  clear
+ 1779  ls
+ 1780  python --version
+ 1781  clear
+ 1782  heroku config
+ 1783  heroku config --help
+ 1784  clear
+ 1785  sudo apt-get install python 3.7
+ 1786  clear
+ 1787  exit
+ 1788  pipenv shell
+ 1789  exit
+ 1790  clear
+ 1791  django-admin startproject herokudjango
+ 1792  clear
+ 1793  cd herokudjango/
+ 1794  clear
+ 1795  ls
+ 1796  clear
+ 1797  pip install gunicorn
+ 1798  pip install python-dotenc
+ 1799  pip install python-dotenv
+ 1800  clear
+ 1801  pip install psycopg2
+ 1802  clear
+ 1803  pip freeze > requirement.txt
+ 1804  clear
+ 1805  subl .
+ 1806  ls
+ 1807  clear
+ 1808  nano .env
+ 1809  clear
+ 1810  nano .gitignore
+ 1811  clear
+ 1812  heroku login
+ 1813  heroku addons:create heroku-postgresql:hobby-dev -a rahul-python
+ 1814  heroku config -a rahul-python
+ 1815  nano Procfile
+ 1816  clear
+ 1817  nano runtime.txt
+ 1818  pip freeze > requirements.txt
+ 1819  clear
+ 1820  git push heroku master
+ 1821  git init
+ 1822  clear
+ 1823  git add .
+ 1824  clear
+ 1825  git status
+ 1826  git commit -m "Initial Commit"
+ 1827  git config user.email "gadagikirankumar1@gmail.com"
+ 1828  git config user.name "gadagikirankumar1"
+ 1829  git commit -m "Initial Commit"
+ 1830  git push heroku master
+ 1831  heroku git:remote -a rahul-python
+ 1832  git push heroku master
+ 1833  clear
+ 1834  ls
+ 1835  nano runtime.txt 
+ 1836  clear
+ 1837  python --version
+ 1838  python --version > runtime.txt 
+ 1839  clear
+ 1840  git push heroku master
+ 1841  nano runtime.txt 
+ 1842  clear
+ 1843  git push heroku master
+ 1844  exit
+ 1845  clear
+ 1846  cd herokudjango/
+ 1847  clear
+ 1848  ls
+ 1849  git status
+ 1850  git add .
+ 1851  git commit -m "Python version modified"
+ 1852  clear
+ 1853  heroku login
+ 1854  clear
+ 1855  git push heroku master
+ 1856  nano runtime.txt 
+ 1857  clear
+ 1858  git status
+ 1859  git add .
+ 1860  clear
+ 1861  git commit -m "python version changed to python-3.5.2"
+ 1862  clear
+ 1863  git push heroku master
+ 1864  nano runtime.txt 
+ 1865  git add .
+ 1866  git commit -m "python version changed to python-3.6.9"
+ 1867  git push heroku master
+ 1868  heroku logs --tail
+ 1869  clear
+ 1870  exit
+ 1871  php -v
+ 1872  clear
+ 1873  cd /opt/
+ 1874  clear
+ 1875  ls
+ 1876  sudo rm -rf lampp
+ 1877  clear
+ 1878  ls
+ 1879  sudo ln -s lampp7.2/
+ 1880  sudo ln -s lampp7.2/ lampp
+ 1881  clear
+ 1882  ls
+ 1883  clear
+ 1884  php -v
+ 1885  clear
+ 1886  cd lampp7.2/htdocs/
+ 1887  clear
+ 1888  ls
+ 1889  ls lara_app/
+ 1890  clear
+ 1891  sudo /opt/lampp/xampp start
+ 1892  sudo /opt/lampp/xampp stop
+ 1893  exit
+ 1894  clear
+ 1895  ls
+ 1896  clear
+ 1897  heroku login
+ 1898  heroku logs --tail
+ 1899  clear
+ 1900  cd herokudjango/
+ 1901  clear
+ 1902  heroku logs --tail
+ 1903  clear
+ 1904  cd ..
+ 1905  django-admin startproject djangodeploy
+ 1906  clear
+ 1907  cd djangodeploy/
+ 1908  clear
+ 1909  ls
+ 1910  subl .
+ 1911  pip freeze > requirements.txt
+ 1912  echo 'python-3.6.8' > runtime.txt
+ 1913  touch .gitignore
+ 1914  ls
+ 1915  clear
+ 1916  git init
+ 1917  clear
+ 1918  touch .gitignore
+ 1919  ls
+ 1920  clear
+ 1921  ls -l
+ 1922  ls la
+ 1923  ls -a
+ 1924  nano .gitignore 
+ 1925  git add .
+ 1926  clear
+ 1927  git commit -am "Initialize Django project"
+ 1928  git config user.email "gadagikirankumar1@gmail.com"
+ 1929  git config user.name "gadagikirankumar1"
+ 1930  git commit -am "Initialize Django project"
+ 1931  heroku git:remote -a kk-py
+ 1932  git push heroku master
+ 1933  heroku logs
+ 1934  clear
+ 1935  python manage.py runserver
+ 1936  clear
+ 1937  heroku restart
+ 1938  ls
+ 1939  clear
+ 1940  echo "web: gunicorn myproject.wsgi"> Procfile
+ 1941  ls
+ 1942  clear
+ 1943  nano Procfile 
+ 1944  clear
+ 1945  heroku config
+ 1946  clear
+ 1947  heroku logout
+ 1948  clear
+ 1949  cd ..
+ 1950  clear
+ 1951  ls
+ 1952  cd taskapi
+ 1953  ls
+ 1954  clear
+ 1955  git status
+ 1956  clear
+ 1957  rm .git
+ 1958  rm -rf .git
+ 1959  clear
+ 1960  ls
+ 1961  clear
+ 1962  python manage.py runserver
+ 1963  clear
+ 1964  python manage.py runserver
+ 1965  clear
+ 1966  subl .
+ 1967  python manage.py runserver
+ 1968  clear
+ 1969  python manage.py runserver
+ 1970  clear
+ 1971  git init
+ 1972  clear
+ 1973  heroku login
+ 1974  clear
+ 1975  git status
+ 1976  clear
+ 1977  git add -A
+ 1978  clear
+ 1979  git status
+ 1980  git commit -m "Initial Commit "
+ 1981  git config user.email "gadagikirankumar1@gmail.com"
+ 1982  git config user.name "gadagikirankumar1"
+ 1983  git commit -m "Initial Commit "
+ 1984  clear
+ 1985  heroku create taskapi-kk
+ 1986  clear
+ 1987  heroku git:remote -a taskapi-kk
+ 1988  clear
+ 1989  heroku git:remote -a taskapi-kk
+ 1990  clear
+ 1991  git push heroku master
+ 1992  ls
+ 1993  clear
+ 1994  pip freeze >requirements.txt
+ 1995  clear
+ 1996  ls
+ 1997  git add -a
+ 1998  clear
+ 1999  git status
+ 2000  git add .
+ 2001  clear
+ 2002  git status
+ 2003  git commit -m "Added requirements txt file"
+ 2004  clear
+ 2005  git push heroku master
+ 2006  ls
+ 2007  clear
+ 2008  ls
+ 2009  nano runtime.txt 
+ 2010  clear
+ 2011  git add .
+ 2012  git status
+ 2013  git commit -m "runtime file changed"
+ 2014  clear
+ 2015  git push heroku master
+ 2016  nano runtime.txt 
+ 2017  clear
+ 2018  git add .
+ 2019  clear
+ 2020  ls
+ 2021  clear
+ 2022  git status
+ 2023  git commit -m "runtime file python 3.7.4"
+ 2024  clear
+ 2025  git push heroku master
+ 2026  heroku buildpacks:set heroku/python
+ 2027  git push heroku master
+ 2028  nano runtime.txt 
+ 2029  clear
+ 2030  git add .
+ 2031  git status
+ 2032  clear
+ 2033  git commit -m "changed the runtime file python-3.6.9"
+ 2034  clear
+ 2035  git push heroku master
+ 2036  subl .
+ 2037  clear
+ 2038  git status
+ 2039  git commit -m "settings file changed"
+ 2040  git add .
+ 2041  git commit -m "settings file changed"
+ 2042  clear
+ 2043  git push heroku master
+ 2044  git add .
+ 2045  git commit -m "settings file changed allowed"
+ 2046  git push heroku master
+ 2047  clear
+ 2048  git remote add origin https://github.com/gadagikirankumar1/taskapi.git
+ 2049  git push -u origin master
+ 2050  clear
+ 2051  history > history.txt
