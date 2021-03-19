@@ -15,7 +15,7 @@ django-sekizai==1.0.0
 django-treebeard==4.3
 djangocms-admin-style==1.4.0
 djangocms-history==1.1.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 gunicorn==20.0.0
 idna==2.8
 itypes==1.1.0
